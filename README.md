@@ -13,7 +13,7 @@ First, ensure you have Python 3 installed on your system. Then, you can install 
 
 ```bash
 pip install moviepy
-```bash
+```
 
 
 Usage
