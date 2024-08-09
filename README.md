@@ -14,20 +14,14 @@ First, ensure you have Python 3 installed on your system. Then, you can install 
 ```bash
 pip install moviepy
 ```
-
-
-Usage
-
-    Place the video file (.mp4) in the same directory as the script.
-    Update the script to point to your specific video file by modifying the mp4_file variable.
-
 mp4_file = "gurudev.mp4"  # Replace with your video file name
 mp3_file = "audio.mp3"    # The output audio file name
 
 Run the script:
 
+```bash
 python extract_audio.py
-
+```
 
 After execution, an .mp3 file with the extracted audio will be created in the same directory.
 
