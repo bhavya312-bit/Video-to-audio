@@ -21,13 +21,11 @@ Usage
     Place the video file (.mp4) in the same directory as the script.
     Update the script to point to your specific video file by modifying the mp4_file variable.
 
-```bash
 mp4_file = "gurudev.mp4"  # Replace with your video file name
 mp3_file = "audio.mp3"    # The output audio file name
 
 Run the script:
 
-```bash
 python extract_audio.py
 
 
